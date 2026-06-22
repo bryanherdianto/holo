@@ -1,6 +1,6 @@
 # HOLO (Horizon-Oriented Laser Output)
 
-Dibuat oleh: Bryan Herdianto, Filaga Tifira Muthi, Jesie Tenardi, dan Muhammad Riyan Satrio Wibowo
+Projek Embedded System ini dibuat oleh Bryan Herdianto, Filaga Tifira Muthi, Jesie Tenardi, dan Muhammad Riyan Satrio Wibowo.
 
 ## Introduction to the Problem and the Solution
 
